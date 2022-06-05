@@ -10,7 +10,7 @@ headers = {
   'authority': 'levcms.live.afonso.se',
   'accept': 'application/json, text/plain, */*',
   'accept-language': 'pt-PT,pt;q=0.9,en-US;q=0.8,en;q=0.7',
-  'authorization': 'Basic Y2tfNTZjZTY0YjgwYTExNDE5N2QyYzVhZWU4NGFlMDA0NjJhZWMzYTM4MDpjc19jZWRhMDczYTljOGFjNDlhNzY5NmVkMmJiZDQ3ZmQwYjVjNDBkYjRk',
+  'authorization': 'Basic ${{secrets.lev_token}}',
   'origin': 'https://lev.pt',
   'referer': 'https://lev.pt/',
   'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"',
@@ -28,6 +28,8 @@ response = requests.request("GET", url, headers=headers, data=payload)
 # write to file
 with open("tempData.json", "w") as outfile:
     json.dump(response.json(), outfile)
+
+quit()
 
 # create Dataframe
 df = pd.read_json("tempData.json")
