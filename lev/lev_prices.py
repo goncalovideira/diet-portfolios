@@ -56,8 +56,6 @@ with open("tempData.json", "w") as outfile:
 df0 = pd.read_json("tempData.json")
 print(df0.columns)
 
-quit()
-
 # simplify Dataframe
 values = []
 text = []
