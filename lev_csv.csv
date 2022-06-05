@@ -1,0 +1,468 @@
+,name,sku,price,text,categories,units,weight,total_weight
+0,Orezza Sparkling - 100cl,BEAG0032_UN,4.25,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+1,Chilled Pêssego/Alecrim by Lev - Pack 12x,BEAG0165_12_CX,34.00,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+2,Chilled Pêssego/Alecrim by Lev - Pack 30x,BEAG0165_30_CX,75.00,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+3,Plano Imunidade,KITPI0001,37.00,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}, {'id': 20, 'name': 'Chás Terapêuticos', 'slug': 'chas-terapeuticos'}, {'id': 18, 'name': 'Kits', 'slug': 'kits'}, {'id': 19, 'name': 'Suplementos &amp; Elixires', 'slug': 'suplementos-elixires'}]",1,,
+4,ChariTea Mint Pack 8 Unidades,BEAG0153_CX,31.50,330 ml,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",330,,
+5,ChariTea Mint,BEAG0153_UN,4.50,330 ml,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",330,,
+6,Rosemary Water Sparkling 75 cl,BEAG0030_UN,6.00,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+7,"L'O Água Mineral Natural 1,5L",,2.50,"1,5 l","[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,5,
+8,Plano Detox Lev - 7 dias,BEAG0047_CX,25.00,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}, {'id': 68, 'name': 'Black Detox Water', 'slug': 'black-detox-water'}]",1,,
+9,Oxygen Water,BEAG0021_UN,3.50,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+10,Lauretana 150cl,BEAG0012_UN,2.50,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+11,Ícelandic Glacial,BEAG0007_UN,4.50,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+12,Ícelandic Glacial - 500ml,BEAG0164_UN,2.50,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+13,Chilled by Lev - Pack 30x,BEAG0157_30_CX,75.00,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+14,Chilled by Lev - Pack 12x,BEAG0157_12_CX,34.00,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+15,Voss Morango - Gengibre Lata,BEAG0051_UN,3.00,"33,0 cl","[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",33,0,
+16,Voss Limão - Pepino Lata,BEAG0050_UN,3.00,"33,0 cl","[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",33,0,
+17,Voss Menta - Lima Lata,BEAG0049_UN,3.00,"33,0 cl","[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",33,0,
+18,Mondquelle,BEAG0014_UN,9.50,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+19,Oxygizer,BEAG0020_UN,4.75,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+20,Voss Tangerina - Citronela,BEAG0046_UN,3.50,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+21,Velleminfroy,BEAG0024_UN,8.25,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+22,Åre Water Sparkling,BEAG0026_UN,6.00,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+23,Voss Menta - Lima,BEAG0044_UN,3.50,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+24,L'O Aromatizada - Menta Pepino,BEAG0053_UN,2.75,"33,0 cl","[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",33,0,
+25,Orezza Natural - 100cl,BEAG0018_UN,4.25,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+26,Veen Effervescent,BEAG0034_UN,5.75,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+27,Veen Velvet,BEAG0023_UN,5.75,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+28,Voss Limão - Pepino,BEAG0045_UN,3.00,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+29,Voss Framboesa - Rosas,BEAG0043_UN,3.50,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+30,Solé Arte,BEAG0022_UN,5.50,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+31,Chateldon 1650,BEAG0029_UN,4.50,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+32,Silhouet ' - Merlot,BEBA0003_UN,14.00,750 ml,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",750,,
+33,Silhouet ' - Chardonnay,BEBA0004_UN,19.00,750 ml,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",750,,
+34,L'O Aromatizada - Gengibre,BEAG0054_UN,2.75,"33,0 cl","[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",33,0,
+35,L'O Aromatizada - Limão do Taiti,BEAG0055_UN,2.75,"33,0 cl","[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",33,0,
+36,L'O Aromatizada - Frutos Vermelhos,BEAG0052_UN,2.75,"33,0 cl","[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",33,0,
+37,Åre Water,BEAG0001_UN,6.00,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+38,Aur’a,BEAG0002_UN,9.00,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+39,Mehrner Quelle,BEAG0013_UN,4.75,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}]",1,,
+40,Black Detox Water,BEAG0047_UN,4.00,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}, {'id': 68, 'name': 'Black Detox Water', 'slug': 'black-detox-water'}]",1,,
+41,Pastel de Nata,COCD0012_UN,15.75,"Contém 4 unidades de 50g.
+Peso neto: 200g.","[{'id': 21, 'name': 'Doces', 'slug': 'doces'}, {'id': 35, 'name': 'Sobremesas', 'slug': 'sobremesas'}]",4,50,200
+42,Bolachas Duplo Morango,DOBO0076_CX,16.50,"Contém 12 saquetas de 18g.
+Peso total líquido de 216g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",12,18,216
+43,Palmiers de Chocolate,PACA0032_CX,14,"Contém 3 saquetas de 45g.
+Peso total líquido de 135g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}, {'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",3,45,135
+44,Bites de Chocolate Preto,DOBO0022_CX,12.50,"Contém 4 unidades de 24g.
+Peso neto: 96g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",4,24,96
+45,Bites de Chocolate Branco,DOBO0021_CX,12.50,"Contém 4 unidades de 24g.
+Peso neto: 96g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",4,24,96
+46,Mini Palitos de Chocolate Branco,DOBO0020_CX,14.00,"Contém 4 saquetas de 40g.
+Peso total: 160g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",4,40,160
+47,Barra Crocante de Côco e Cacau,SNSS0012_CX,17.50,"Contém 5 unidades de 30g.
+Peso total líquido de 150g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,30,150
+48,Barra Crocante de Chocolate Branco,SNSS0013_CX,17.50,"Contém 5 unidades de 30g.
+Peso total líquido de 150g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,30,150
+49,Bebida de Café,BEBF0008_CX,16.00,Contém 4 unidades de 256g.,"[{'id': 27, 'name': 'Bebidas &amp; Iogurtes', 'slug': 'bebidas-iogurtes'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",4,256,
+50,Cookie de Côco e Chocolate,DOBO0017_CX,12.50,"Contém 8 cookies de 17g.
+Peso neto: 136g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",8,17,136
+51,Cookie de Chocolate e Pistacho,DOBO0018_CX,12.50,"Contém 8 cookies de 17g.
+Peso neto: 136g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",8,17,136
+52,Gelado de Caramelo Salgado,COCD0010_CX,12.95,"Contém 3 unidades de 45g.
+Peso total: 135.","[{'id': 21, 'name': 'Doces', 'slug': 'doces'}, {'id': 35, 'name': 'Sobremesas', 'slug': 'sobremesas'}]",3,45,135
+53,Petit Gâteau de Chocolate,COCD0009_UN,14.95,"Contém 4 unidades de 40g.
+Peso total: 160.","[{'id': 21, 'name': 'Doces', 'slug': 'doces'}, {'id': 35, 'name': 'Sobremesas', 'slug': 'sobremesas'}]",4,40,160
+54,Barra Crocante de Avelã e Cacau,SNSS0011_CX,17.50,"Contém 5 unidades de 30g.
+Peso total líquido de 150g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,30,150
+55,Mini Palitos de Avelã e Cacau,DOBO0019_CX,14.00,"Contém 4 saquetas de 40g.
+Peso total: 160g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",4,40,160
+56,Shaker Lev,ACAC0001_UN,1.50,,"[{'id': 27, 'name': 'Bebidas &amp; Iogurtes', 'slug': 'bebidas-iogurtes'}, {'id': 34, 'name': 'Crepes', 'slug': 'crepes'}, {'id': 38, 'name': 'Omeletes', 'slug': 'omeletes'}, {'id': 35, 'name': 'Sobremesas', 'slug': 'sobremesas'}, {'id': 41, 'name': 'Sopas', 'slug': 'sopas'}]",1,,
+57,Cookie Sport,SNSS0008_CX,11.95,"Contém 5 cookies de 40g.
+Peso neto: 200g.
+<div id=""gtx-trans"">
+<div class=""gtx-trans-icon""></div>
+</div>","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,40,200
+58,Creme de Chocolate,DOSO0006_UN,12.50,"Contém 3 unidades de 125g.
+Peso total: 375g.
+<div id=""gtx-trans"">
+<div class=""gtx-trans-icon""></div>
+</div>","[{'id': 21, 'name': 'Doces', 'slug': 'doces'}, {'id': 35, 'name': 'Sobremesas', 'slug': 'sobremesas'}]",3,125,375
+59,Creme de Baunilha,DOSO0011_CX,12.50,"Contém 3 unidades de 125g.
+Peso total: 375g.
+<div id=""gtx-trans"">
+<div class=""gtx-trans-icon""></div>
+</div>","[{'id': 21, 'name': 'Doces', 'slug': 'doces'}, {'id': 35, 'name': 'Sobremesas', 'slug': 'sobremesas'}]",3,125,375
+60,Palmiers,PACA0016_CX,13.50,"Contém 3 saquetas de 50g.
+Peso total líquido de 150g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}, {'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",3,50,150
+61,Natas do Céu,COCD0006_UN,10.50,"Contém 3 unidades de 55g.
+Peso total: 165g.
+
+&nbsp;","[{'id': 21, 'name': 'Doces', 'slug': 'doces'}, {'id': 35, 'name': 'Sobremesas', 'slug': 'sobremesas'}]",3,55,165
+62,Cheesecake Frutos Silvestres,COCD0003_UN,13.95,"Contém 3 fatias de 75g.
+Peso neto: 225g.","[{'id': 21, 'name': 'Doces', 'slug': 'doces'}, {'id': 35, 'name': 'Sobremesas', 'slug': 'sobremesas'}]",3,75,225
+63,Cheesecake Chocolate,COCD0002_UN,14.95,"Contém 3 fatias de 70g.
+Peso neto: 210g.","[{'id': 21, 'name': 'Doces', 'slug': 'doces'}, {'id': 35, 'name': 'Sobremesas', 'slug': 'sobremesas'}]",3,70,210
+64,Mousse de Oreo,COCD0007_UN,10.50,"Contém 3 unidades de 55g.
+Peso total: 165.
+
+&nbsp;","[{'id': 21, 'name': 'Doces', 'slug': 'doces'}, {'id': 35, 'name': 'Sobremesas', 'slug': 'sobremesas'}]",3,55,165
+65,Pecados Lev de Morango com Natas,PAGP0004_UN,7.95,Peso Neto: 60g,"[{'id': 63, 'name': 'Chocolate, Gomas &amp; Rebuçados', 'slug': 'chocolates-gomas-rebucados'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",60,,
+66,Mousse Tiramisu,COCD0008_UN,10.50,"Contém 3 unidades de 55g.
+Peso total: 165.
+
+&nbsp;","[{'id': 21, 'name': 'Doces', 'slug': 'doces'}, {'id': 35, 'name': 'Sobremesas', 'slug': 'sobremesas'}]",3,55,165
+67,Pecados Lev de Melancia,PAGP0002_UN,7.95,Peso Neto: 60g,"[{'id': 63, 'name': 'Chocolate, Gomas &amp; Rebuçados', 'slug': 'chocolates-gomas-rebucados'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",60,,
+68,Pecados Lev de Maracujá,PAGP0001_UN,7.95,Peso Neto: 60g,"[{'id': 63, 'name': 'Chocolate, Gomas &amp; Rebuçados', 'slug': 'chocolates-gomas-rebucados'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",60,,
+69,"Pecados Lev de Lima, Limão e Laranja",PAGP0010_UN,7.95,Peso Neto: 60g,"[{'id': 63, 'name': 'Chocolate, Gomas &amp; Rebuçados', 'slug': 'chocolates-gomas-rebucados'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",60,,
+70,Pecados Lev de Kiwi,PAGP0008_UN,7.95,Peso Neto: 60g,"[{'id': 63, 'name': 'Chocolate, Gomas &amp; Rebuçados', 'slug': 'chocolates-gomas-rebucados'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",60,,
+71,Pecados Lev de Framboesa Lima,PAGP0009_UN,7.95,Peso Neto: 60g.,"[{'id': 63, 'name': 'Chocolate, Gomas &amp; Rebuçados', 'slug': 'chocolates-gomas-rebucados'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",60,,
+72,Wafer Manteiga de Amendoim,SNSS0007_CX,8.00,"Contém 3 unidades de 41,1g.
+Peso total: 123,3g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",3,41,1
+73,Barra Mirtilo e Romã,SNSS0004_CX,7.50,"Contém 3 unidades de 40g.
+Peso total: 120g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",3,40,120
+74,Panquecas,DOCR0004_CX,16.50,"Contém 5 saquetas de 25g.
+Peso total: 125g.","[{'id': 34, 'name': 'Crepes', 'slug': 'crepes'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,25,125
+75,Snack de Chocolate Crocante,PACS0005_CX,12.95,"Contém 4 saquetas de 46g.
+Peso total líquido de 184g.","[{'id': 63, 'name': 'Chocolate, Gomas &amp; Rebuçados', 'slug': 'chocolates-gomas-rebucados'}]",4,46,184
+76,Snack Choco Color,PACS0013_CX,12.95,"Contém 4 saquetas de 35g.
+Peso total líquido de 140g.","[{'id': 63, 'name': 'Chocolate, Gomas &amp; Rebuçados', 'slug': 'chocolates-gomas-rebucados'}]",4,35,140
+77,Snack Choco Gold,PACS0021_CX,12.95,"Contém 4 saquetas de 45g.
+Peso total líquido de 180g.","[{'id': 63, 'name': 'Chocolate, Gomas &amp; Rebuçados', 'slug': 'chocolates-gomas-rebucados'}]",4,45,180
+78,Sobremesa de Bolacha,DOSO0007_CX,16.50,"Contém 5 saquetas de 26g.
+Peso total: 130g.","[{'id': 21, 'name': 'Doces', 'slug': 'doces'}, {'id': 35, 'name': 'Sobremesas', 'slug': 'sobremesas'}]",5,26,130
+79,Sobremesa de Pão de Ló,DOSO0001_CX,16.50,"Contém 5 saquetas de 28g.
+Peso total: 140g.","[{'id': 21, 'name': 'Doces', 'slug': 'doces'}, {'id': 35, 'name': 'Sobremesas', 'slug': 'sobremesas'}]",5,28,140
+80,Soft Cake de Limão,PACA0006_CX,14.00,"Contém 8 unidades de 20g.
+Peso neto: 160g","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",8,20,160
+81,Soft Cake de Amêndoa,PACA0005_CX,14.00,"Contém 8 unidades de 20g.
+Peso total neto de 160g","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",8,20,160
+82,Soft Cake de Caramelo,PACA0004_CX,14.00,"Contém 8 unidades de 20g.
+Peso neto: 160g","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",8,20,160
+83,Wafer Avelã e Chocolate,SNSS0006_CX,8.00,"Contém 3 unidades de 41,1g.
+Peso total líquido de 123,3g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",3,41,1
+84,Wafer de Baunilha,DOWA0003_CX,16.50,"Contém 5 saquetas de 35g.
+Peso total: 175g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,35,175
+85,Wafer de Café,DOWA0001_CX,16.50,"Contém 5 unidades de 35,5g.
+Peso total líquido de 177,5g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,35,5
+86,Wafer de Chocolate,DOWA0002_CX,16.50,"Contém 5 saquetas de 36g.
+Peso total: 180g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,36,180
+87,Wafer Chocolate Branco e Framboesa,SNSS0005_CX,8.00,"Contém 3 unidades de 41,1g.
+Peso total líquido de 123,3g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",3,41,1
+88,Palitos de Chocolate Branco,PACS0010_CX,13.00,"Contém 4 saquetas de 33g.
+Peso total: 132g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",4,33,132
+89,Bolachas de Chocolate,SNSS0009_CX,9.50,"Contém 3 saquetas de 44g.
+Peso total líquido de 132g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",3,44,132
+90,Mousse de Chocolate,DOSO0005_CX,16.50,"Contém 5 saquetas de 27g.
+Peso total: 135g.","[{'id': 21, 'name': 'Doces', 'slug': 'doces'}, {'id': 35, 'name': 'Sobremesas', 'slug': 'sobremesas'}]",5,27,135
+91,Mini Cookies,DOBO0007_CX,17.50,"Contém 5 saquetas de 35g.
+Peso total: 175g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,35,175
+92,Bebida sabor a Laranja,BEBF0003_CX,14.00,Contém 4 unidades de 330g.,"[{'id': 27, 'name': 'Bebidas &amp; Iogurtes', 'slug': 'bebidas-iogurtes'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",4,330,
+93,Granola Chocolate Crunchy,DOBO0009_CX,12.95,"Contém 4 unidades de 43g.
+Peso neto: 172g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",4,43,172
+94,Granola Crunchy,DOBO0010_CX,12.95,"Contém 4 unidades de 44g.
+Peso neto: 176g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",4,44,176
+95,Gomas de Ursinhos,PAGP0007_CX,15.95,"Contém 4 unidades de 70g.
+Peso total: 280g.","[{'id': 63, 'name': 'Chocolate, Gomas &amp; Rebuçados', 'slug': 'chocolates-gomas-rebucados'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",4,70,280
+96,Gomas Fruti Maçã,PAGP0006_CX,15.95,"Contém 4 unidades de 70g.
+Peso neto: 280g.","[{'id': 63, 'name': 'Chocolate, Gomas &amp; Rebuçados', 'slug': 'chocolates-gomas-rebucados'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",4,70,280
+97,Gomas Fruti Laranja,PAGP0005_CX,15.95,"Contém 4 unidades de 70g.
+Peso neto: 280g.","[{'id': 63, 'name': 'Chocolate, Gomas &amp; Rebuçados', 'slug': 'chocolates-gomas-rebucados'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",4,70,280
+98,Crepe de Maçã e Caramelo,DOCR0001_CX,16.50,"Contém 5 saquetas de 29g.
+Peso total: 137,5g.","[{'id': 34, 'name': 'Crepes', 'slug': 'crepes'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,29,137
+99,Crepe de Limão,DOCR0005_CX,16.50,"Contém 5 saquetas de 28g.
+Peso total: 140g.","[{'id': 34, 'name': 'Crepes', 'slug': 'crepes'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,28,140
+100,Crepe de Côco,DOCR0006_CX,16.50,"Contém 5 saquetas de 27,5g.
+Peso total: 137,5g.","[{'id': 34, 'name': 'Crepes', 'slug': 'crepes'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,27,5
+101,Crepe de Banana e Chocolate,DOCR0002_CX,16.50,"Contém 5 saquetas de 29g.
+Peso total: 145g.","[{'id': 34, 'name': 'Crepes', 'slug': 'crepes'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,29,145
+102,Cookie de Laranja com Pepitas de Chocolate,DOBO0006_CX,14.00,"Contém 8 unidades de 25g.
+Peso total: 200g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",8,25,200
+103,Cookie de Coco,DOBO0005_CX,14.00,"Contém 8 unidades de 25g.
+Peso total: 200g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",8,25,200
+104,Barra Choco Break,DOBA0009_CX,16.50,"Contém 5 unidades de 48,7g.
+Peso total: 243,5g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,48,7
+105,Capuccino,BEBQ0001_CX,16.50,"Contém 5 saquetas de 26g.
+Peso total: 130g.","[{'id': 27, 'name': 'Bebidas &amp; Iogurtes', 'slug': 'bebidas-iogurtes'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,26,130
+106,Barra de Baunilha,DOBA0013_CX,16.50,"Contém 5 unidades de 44g.
+Peso total líquido de 220g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,44,220
+107,Iogurte Líquido de Morango,BEIO0001_CX,19.80,Contém 6 unidades de 208g.,"[{'id': 27, 'name': 'Bebidas &amp; Iogurtes', 'slug': 'bebidas-iogurtes'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",6,208,
+108,Iogurte Líquido de Manga,BEIO0002_CX,19.80,Contém 6 unidades de 208g.,"[{'id': 27, 'name': 'Bebidas &amp; Iogurtes', 'slug': 'bebidas-iogurtes'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",6,208,
+109,Iogurte Líquido de Banana,BEIO0003_CX,19.80,Pronto a consumir.,"[{'id': 27, 'name': 'Bebidas &amp; Iogurtes', 'slug': 'bebidas-iogurtes'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",,,
+110,Cacau,BEBQ0002_CX,16.50,"Contém 5 saquetas de 27,5g.
+Peso total: 137,5g.","[{'id': 27, 'name': 'Bebidas &amp; Iogurtes', 'slug': 'bebidas-iogurtes'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,27,5
+111,Bolachas Nutellev,DOBO0014_CX,12.95,"Contém 16 saquetas de 9g.
+Peso total: 144g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",16,9,144
+112,Bolachas Extra Choco,DOBO0012_CX,16.50,"Contém 12 saquetas de 16g.
+Peso total líquido de 192g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",12,16,192
+113,Bolachas Double Choc com Creme,DOBO0002_CX,16.50,"Contém 12 saquetas de 16g.
+Peso total líquido de 192g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",12,16,192
+114,Bebida sabor Pêssego e Maracujá,BEBF0001_CX,16.00,Contém 4 unidades de 250ml.,"[{'id': 27, 'name': 'Bebidas &amp; Iogurtes', 'slug': 'bebidas-iogurtes'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",4,250,
+115,Bebida de Framboesa,BEBF0002_CX,16.00,Contém 4 unidades de 250ml.,"[{'id': 27, 'name': 'Bebidas &amp; Iogurtes', 'slug': 'bebidas-iogurtes'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",4,250,
+116,Bebida de Baunilha e Cereais Crocantes,BEBF0007_CX,16.50,"Contém 5 saquetas de 26,5g.
+Peso total: 132,5g.","[{'id': 27, 'name': 'Bebidas &amp; Iogurtes', 'slug': 'bebidas-iogurtes'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,26,5
+117,Bebida de Chocolate,BEBF0004_CX,16.00,Contém 4 unidades de 256g.,"[{'id': 27, 'name': 'Bebidas &amp; Iogurtes', 'slug': 'bebidas-iogurtes'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",4,256,
+118,Bebida de Baunilha,BEBF0006_CX,16.00,Contém 4 unidades de 256g.,"[{'id': 27, 'name': 'Bebidas &amp; Iogurtes', 'slug': 'bebidas-iogurtes'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",4,256,
+119,Barra Tiramisu,DOBA0004_CX,16.75,"Contém 5 unidades de 40g.
+Peso total líquido de 200g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,40,200
+120,Barra de Coco Crunch,DOBA0007_CX,16.50,"Contém 5 unidades de 44g.
+Peso total: 225g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,44,225
+121,Barra Wafer Baunilha,DOBA0002_CX,16.50,"Contém 5 unidades de 37,2g.
+Peso total líquido de 186g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,37,2
+122,Barra Crisp Pêssego e Maracujá,DOBA0011_CX,16.50,"Contém 5 unidades de 35g.
+Peso total líquido de 175g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,35,175
+123,Barra de Morango Crunch,DOBA0006_CX,16.95,"Contém 5 unidades de 44g.
+Peso total: 220g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,44,220
+124,Barra Crisp Mirtilo e Arando,DOBA0010_CX,16.50,"Contém 5 unidades de 35g.
+Peso total líquido de 175g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,35,175
+125,Barra Cookie,DOBA0001_CX,16.75,"Contém 5 unidades de 40g.
+Peso total líquido de 200g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,40,200
+126,Barra Chocolate Crispy,SNSS0003_CX,7.50,"Contém 3 unidades de 45g.
+Peso total: 135g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",3,45,135
+127,Barra Choco Crisp,DOBA0003_CX,16.50,,"[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",1,,
+128,Barra de Chocolate de Avelã Crunch,DOBA0008_CX,16.50,"Contém 5 unidades de 44g.
+Peso total: 220g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,44,220
+129,Barra Wafer de Chocolate,DOBA0012_CX,16.50,"Contém 5 unidades de 37,2g.
+Peso total líquido de 186g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,37,2
+130,Arroz Doce,DOSO0008_CX,16.50,"Contém 5 saquetas de 30g.
+Peso total: 150g","[{'id': 21, 'name': 'Doces', 'slug': 'doces'}, {'id': 35, 'name': 'Sobremesas', 'slug': 'sobremesas'}]",5,30,150
+131,Barra de Amendoim,SNSS0002_CX,7.50,"Contém 3 unidades de 42g.
+Peso total: 126g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",3,42,126
+132,Kabkaj - Dark Choco + Hyaluronic Acid,PACS0032_CX,19.95,"Contém 6 tabletes de 32g (192g).
+<div id=""\&quot;\\&quot;\\\\&quot;gtx-trans\\\\&quot;\\&quot;\&quot;"">
+<div class=""\&quot;\\&quot;\\\\&quot;gtx-trans-icon\\\\&quot;\\&quot;\&quot;""></div>
+</div>","[{'id': 76, 'name': 'Kabkaj - Choco with a Twist', 'slug': 'kabkaj'}]",6,32,192
+133,Kabkaj - Dark Choco + Orange Crunchies,PACS0031_CX,19.95,"Contém 6 tabletes de 32g (192g).
+<div id=""\&quot;\\&quot;gtx-trans\\&quot;\&quot;"">
+<div class=""\&quot;\\&quot;gtx-trans-icon\\&quot;\&quot;""></div>
+</div>","[{'id': 76, 'name': 'Kabkaj - Choco with a Twist', 'slug': 'kabkaj'}]",6,32,192
+134,Kabkaj - Dark Choco + Goji,PACS0030_CX,19.95,"Contém 6 tabletes de 32g (192g).
+<div id=""\&quot;\\&quot;gtx-trans\\&quot;\&quot;"">
+<div class=""\&quot;\\&quot;gtx-trans-icon\\&quot;\&quot;""></div>
+</div>","[{'id': 76, 'name': 'Kabkaj - Choco with a Twist', 'slug': 'kabkaj'}]",6,32,192
+135,Kabkaj - Dark Choco,PACS0028_CX,19.95,"Contém 6 tabletes de 32g (192g).
+<div id=""\&quot;gtx-trans\&quot;"">
+<div class=""\&quot;gtx-trans-icon\&quot;""></div>
+</div>","[{'id': 76, 'name': 'Kabkaj - Choco with a Twist', 'slug': 'kabkaj'}]",6,32,192
+136,Kabkaj - Dark Choco + Grated Coconut,PACS0029_CX,19.95,"Contém 6 tabletes de 32g (192g).
+<div id=""\&quot;gtx-trans\&quot;"">
+<div class=""\&quot;gtx-trans-icon\&quot;""></div>
+</div>","[{'id': 76, 'name': 'Kabkaj - Choco with a Twist', 'slug': 'kabkaj'}]",6,32,192
+137,Kabkaj - Milk Choco Caramelized Hazelnuts,PACS0027_CX,19.95,"Contém 6 tabletes de 32g (192g).
+<div id=""gtx-trans"">
+<div class=""gtx-trans-icon""></div>
+</div>","[{'id': 76, 'name': 'Kabkaj - Choco with a Twist', 'slug': 'kabkaj'}]",6,32,192
+138,Kabkaj - White Choco Crunch,PACS0026_CX,19.95,"Contém 6 tabletes de 28g (168g).
+<div id=""gtx-trans"">
+<div class=""gtx-trans-icon""></div>
+</div>","[{'id': 76, 'name': 'Kabkaj - Choco with a Twist', 'slug': 'kabkaj'}]",6,28,168
+139,Kabkaj - Milk Choco Crunchy,PACS0024_CX,19.95,"Contém 6 tabletes de 28g (168g).
+<div id=""gtx-trans"">
+<div class=""gtx-trans-icon""></div>
+</div>","[{'id': 76, 'name': 'Kabkaj - Choco with a Twist', 'slug': 'kabkaj'}]",6,28,168
+140,Kabkaj - White Choco Cookie,PACS0025_CX,19.95,"Contém 6 tabletes de 32g (192g).
+<div id=""gtx-trans"">
+<div class=""gtx-trans-icon""></div>
+</div>","[{'id': 76, 'name': 'Kabkaj - Choco with a Twist', 'slug': 'kabkaj'}]",6,32,192
+141,Compota de Cereja,DOCC0006_UN,9.00,1 frasco de compota: 220g.,"[{'id': 24, 'name': 'Molhos, Compotas &amp; Cremes', 'slug': 'molhos-compotas-cremes'}]",1,220,
+142,Molho de Tomate e Orégãos,SAMO0007_CX,5.90,"<strong>2 unidades de 110g.</strong>
+<div id=""gtx-trans"">
+<div class=""gtx-trans-icon""></div>
+</div>","[{'id': 24, 'name': 'Molhos, Compotas &amp; Cremes', 'slug': 'molhos-compotas-cremes'}]",2,110,
+143,Molho Carbonara,SAMO0003_UN,3.90,"Retirar o conteúdo da embalagem, aquecer e consumir. (Como acompanhamento de massas, carnes, peixes e legumes.)","[{'id': 24, 'name': 'Molhos, Compotas &amp; Cremes', 'slug': 'molhos-compotas-cremes'}]",,,
+144,Mousse de Queijo,SACB0004_CX,12.00,"Contém 8 unidades de 25g.
+Peso total: 200g.","[{'id': 24, 'name': 'Molhos, Compotas &amp; Cremes', 'slug': 'molhos-compotas-cremes'}]",8,25,200
+145,Compota de Morango,DOCC0001_UN,7.95,1 frasco de compota: 290g.,"[{'id': 24, 'name': 'Molhos, Compotas &amp; Cremes', 'slug': 'molhos-compotas-cremes'}]",1,290,
+146,Compota de Alperce,DOCC0005_UN,5.95,1 frasco de compota: 185g.,"[{'id': 24, 'name': 'Molhos, Compotas &amp; Cremes', 'slug': 'molhos-compotas-cremes'}]",1,185,
+147,Queijo Cremoso para Barrar,SACB0003_CX,11.75,"Contém 2 unidades de 130g.
+Peso total: 260g.
+<div id=""gtx-trans"">
+<div class=""gtx-trans-icon""></div>
+</div>","[{'id': 24, 'name': 'Molhos, Compotas &amp; Cremes', 'slug': 'molhos-compotas-cremes'}]",2,130,260
+148,Nutellev,DOCC0003_CX,14.95,"Contém 2 unidades de 120g.
+Peso neto: 240g.","[{'id': 24, 'name': 'Molhos, Compotas &amp; Cremes', 'slug': 'molhos-compotas-cremes'}]",2,120,240
+149,Mousse de Atum e Pimento,SACB0001_UN,3.90,1 frasco: 120g.,"[{'id': 24, 'name': 'Molhos, Compotas &amp; Cremes', 'slug': 'molhos-compotas-cremes'}]",1,120,
+150,Maionese,SAMO0001_UN,7.25,Peso neto: 300ml (1 frasco).,"[{'id': 24, 'name': 'Molhos, Compotas &amp; Cremes', 'slug': 'molhos-compotas-cremes'}]",300,1,
+151,Ketchup,SAMO0002_UN,7.25,Peso neto: 300ml (1 frasco).,"[{'id': 24, 'name': 'Molhos, Compotas &amp; Cremes', 'slug': 'molhos-compotas-cremes'}]",300,1,
+152,Molho Bolonhesa,SAMO0004_UN,3.90,1 unidade de 115g.,"[{'id': 24, 'name': 'Molhos, Compotas &amp; Cremes', 'slug': 'molhos-compotas-cremes'}]",1,115,
+153,Patê de Frango e Pimentas,SACB0002_UN,5.45,Peso neto (1 frasco): 120g.,"[{'id': 24, 'name': 'Molhos, Compotas &amp; Cremes', 'slug': 'molhos-compotas-cremes'}]",1,120,
+154,Compota de Laranja,DOCC0004_UN,5.50,1 frasco de compota: 185g.,"[{'id': 24, 'name': 'Molhos, Compotas &amp; Cremes', 'slug': 'molhos-compotas-cremes'}]",1,185,
+155,Super Skin by Lev,SUEB0001_CX,50.00,"Glicerina E422 e água purificada QSP, sumos : Ananás (<em>Ananas comosus</em> <em>(L.) Merr.</em>) e Papaia (<em>Carica papaya L.</em>); extratos aquosos: Dente-de-leão (<em>Taraxacum officinale Web.</em>), Guaraná (<em>Paullinia cupana Kunth</em>) e Chá verde (<em>Camellia sinensis (L.) Kuntze</em>); FOS (Fructooligossacarídeos); corante: Caramelo E150a; aroma: manga; espessante: goma xantana E415.","[{'id': 66, 'name': 'Nutricosmética', 'slug': 'nutricosmetica'}, {'id': 19, 'name': 'Suplementos &amp; Elixires', 'slug': 'suplementos-elixires'}]",422,150,415
+156,Skin Elixir + Keratin + Elastin,SUEB0002_UN,29.95,"Conservar em local seco e fresco (entre 15ºC a 25ºC), ao abrigo da luz e da humidade.","[{'id': 66, 'name': 'Nutricosmética', 'slug': 'nutricosmetica'}, {'id': 19, 'name': 'Suplementos &amp; Elixires', 'slug': 'suplementos-elixires'}]",15,25,
+157,Focaccia de Queijo e Ervas,SAPC0029_CX,13.50,"Contém 3 unidades de 50g.
+Peso total líquido de 150g.","[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",3,50,150
+158,Palmiers de Chocolate,PACA0032_CX,14,"Contém 3 saquetas de 45g.
+Peso total líquido de 135g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}, {'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",3,45,135
+159,Croissant Nutellev,PACA0029_CX,13.50,"Contém 3 croissants de 50g.
+Peso total líquido de 150g.","[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",3,50,150
+160,Palmiers,PACA0016_CX,13.50,"Contém 3 saquetas de 50g.
+Peso total líquido de 150g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}, {'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",3,50,150
+161,Pão de Forma de Cereais,PAPT0001_UN,16.50,1 embalagem tem um peso médio de 450g.,"[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",1,450,
+162,Pão de Forma,PAPT0007_UN,15.50,1 embalagem tem um peso médio de 350g.,"[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",1,350,
+163,Croissant de Spirulina e Sementes de Chia,PACA0021_CX,13.00,"Contém 3 croissants de 50g.
+Peso total líquido de 150g.","[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",3,50,150
+164,Croissant,PACA0010_CX,12.50,"Contém 3 croissants de 50g.
+Peso total líquido de 150g.","[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",3,50,150
+165,Croissant de Chocolate,PACA0011_CX,13.50,"Contém 3 croissants de 50g.
+Peso total líquido de 150g.","[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",3,50,150
+166,Pão de Cereais,PAPT0002_CX,16.50,"Contém 5 unidades de 48g.
+Peso líquido total de 240g.","[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",5,48,240
+167,Panettone com chocolate,PACA0013_CX,13.50,"Contém 3 unidades de 50g.
+Peso neto: 150g","[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",3,50,150
+168,Muffin de Mirtilo,PACA0019_CX,14.00,"Contém 4 saquetas de 38g.
+Peso total líquido de 152g.","[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",4,38,152
+169,Muffin de Gengibre e Canela,PACA0007_CX,14.00,"Contém 4 saquetas de 48g.
+Peso total líquido de 192g.","[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",4,48,192
+170,Muffin de Framboesa,PACA0033_CX,15.00,"Contém 4 saquetas de 38g.
+Peso total líquido de 152g.","[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",4,38,152
+171,Muffin Crisp,PACA0017_CX,14.00,"Contém 4 saquetas de 37g.
+Peso total líquido de 148g.","[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",4,37,148
+172,Brownie de Chocolate com Nozes Pécan,PACA0015_CX,14.00,"Contém 4 saquetas de 37g.
+Peso total líquido de 148g.","[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",4,37,148
+173,Baguette,PAPT0006_CX,11.50,"Contém 4 saquetas de 30g.
+Peso total líquido de 120g.","[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",4,30,120
+174,Pro Pre B,SULA0002_UN,20.00,"Tomar 2 cápsulas por dia: 1 ao levantar e 1 cápsula ao deitar, acompanhadas por 200-250 ml de água.","[{'id': 67, 'name': 'Pro &amp; Pre Biótico', 'slug': 'pro-pre-bioticos'}, {'id': 19, 'name': 'Suplementos &amp; Elixires', 'slug': 'suplementos-elixires'}]",2,1,1
+175,Crepe de Fiambre,SAOC0006_CX,16.50,"Contém 5 saquetas de 27g.
+Peso total: 135g.","[{'id': 38, 'name': 'Omeletes', 'slug': 'omeletes'}]",5,27,135
+176,Quiche Vegetariana,COCD0011_UN,12.50,"Contém 4 unidades de 55g.
+Peso total: 220g.","[{'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}, {'id': 65, 'name': 'Vegetariano', 'slug': 'refeicoes-vegetarianas'}]",4,55,220
+177,Lasanha Bolonhesa,SAPC0025_CX,21.90,"<strong>3 unidades de 150g
+Peso total: 450g .</strong>","[{'id': 39, 'name': 'Carne &amp; Peixe', 'slug': 'carne-peixe'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",3,150,450
+178,Shaker Lev,ACAC0001_UN,1.50,,"[{'id': 27, 'name': 'Bebidas &amp; Iogurtes', 'slug': 'bebidas-iogurtes'}, {'id': 34, 'name': 'Crepes', 'slug': 'crepes'}, {'id': 38, 'name': 'Omeletes', 'slug': 'omeletes'}, {'id': 35, 'name': 'Sobremesas', 'slug': 'sobremesas'}, {'id': 41, 'name': 'Sopas', 'slug': 'sopas'}]",1,,
+179,Salmão do Atlântico,SAPC0019_CX,15.00,"Contém 3 latas de 120g.
+Peso total: 120g.
+<div id=""gtx-trans"">
+<div class=""gtx-trans-icon""></div>
+</div>","[{'id': 39, 'name': 'Carne &amp; Peixe', 'slug': 'carne-peixe'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",3,120,120
+180,Empada de Frango,COCS0002_UN,13.00,Contém 4 empadas de 55g.,"[{'id': 39, 'name': 'Carne &amp; Peixe', 'slug': 'carne-peixe'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",4,55,
+181,Pizza Vegetariana,COCS0001_UN,13.50,"Contém 3 fatias pizzas de 70g.
+Peso neto: 210g","[{'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}, {'id': 65, 'name': 'Vegetariano', 'slug': 'refeicoes-vegetarianas'}]",3,70,210
+182,Wrap de Trigo,SAPC0020_CX,9.50,"Contém 6 wraps de 40g.
+Peso total: 240g.","[{'id': 40, 'name': 'Massa, Pizza &amp; Wrap', 'slug': 'massa-pizza-wrap'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}, {'id': 65, 'name': 'Vegetariano', 'slug': 'refeicoes-vegetarianas'}]",6,40,240
+183,Base de Pizza,SAPC0011_CX,5.95,"Contém 2 bases de 50g.
+Peso total: 100g.","[{'id': 40, 'name': 'Massa, Pizza &amp; Wrap', 'slug': 'massa-pizza-wrap'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",2,50,100
+184,Peito de Frango com Cogumelos Selvagens,SAPC0013_CX,17.50,"Contém 3 unidades de 220g.
+Peso total líquido de 660g.","[{'id': 39, 'name': 'Carne &amp; Peixe', 'slug': 'carne-peixe'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",3,220,660
+185,Penne,SAPC0018_CX,11.50,"Contém 3 refeições.
+Peso total: 90g.","[{'id': 40, 'name': 'Massa, Pizza &amp; Wrap', 'slug': 'massa-pizza-wrap'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",3,90,
+186,Tentação de Presunto,SAPC0017_CX,17.00,"Contém 4 saquetas de 40g.
+Peso total: 160g.","[{'id': 39, 'name': 'Carne &amp; Peixe', 'slug': 'carne-peixe'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",4,40,160
+187,Salmão com Espinafres,SAPC0007_CX,17.50,"Contém 3 unidades de 220g.
+Valor total: 660g.","[{'id': 39, 'name': 'Carne &amp; Peixe', 'slug': 'carne-peixe'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",3,220,660
+188,Salsichas,SAPC0005_CX,13.00,"Contém 3 embalagens de 100g.
+Peso total: 300g.","[{'id': 39, 'name': 'Carne &amp; Peixe', 'slug': 'carne-peixe'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",3,100,300
+189,Especialidade de Carne,SAPC0008_CX,16.00,"Contém 4 saquetas de 30g.
+Peso total: 120g.","[{'id': 39, 'name': 'Carne &amp; Peixe', 'slug': 'carne-peixe'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",4,30,120
+190,Spaghetti de Konjac,SAPC0023_CX,14.50,"Contém 3 unidades de 150g.
+Peso total: 450g.","[{'id': 40, 'name': 'Massa, Pizza &amp; Wrap', 'slug': 'massa-pizza-wrap'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",3,150,450
+191,Sopa de Alho-Francês com Croutons,SASO0003_CX,16.50,"Contém 5 saquetas de 27g.
+Peso total: 135g.","[{'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}, {'id': 41, 'name': 'Sopas', 'slug': 'sopas'}]",5,27,135
+192,Sopa de Espargos com Croutons,SASO0005_CX,16.50,"Contém 5 saquetas de 27g.
+Peso total: 135g.","[{'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}, {'id': 41, 'name': 'Sopas', 'slug': 'sopas'}]",5,27,135
+193,Sopa de Frango com Croutons,SASO0004_CX,16.50,"Contém 5 saquetas de 27g.
+Peso total: 135g.","[{'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}, {'id': 41, 'name': 'Sopas', 'slug': 'sopas'}]",5,27,135
+194,Sopa de Legumes com Croutons,SASO0002_CX,16.50,"Contém 5 saquetas de 25g.
+Peso total: 152,5g.","[{'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}, {'id': 41, 'name': 'Sopas', 'slug': 'sopas'}]",5,25,152
+195,Tagliatelle de Konjac,SAPC0004_CX,13.75,"Contém 3 unidades de 150g.
+Peso total: 450g.","[{'id': 40, 'name': 'Massa, Pizza &amp; Wrap', 'slug': 'massa-pizza-wrap'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",3,150,450
+196,Omeleta Rústica,SAOC0004_CX,16.50,"<ol>
+ 	<li>Colocar 120ml de água fria no shaker;</li>
+ 	<li>Juntar 27g do produto e misturar bem, até à dissolução completa;</li>
+ 	<li>Colocar numa frigideira antiaderente ligeiramente untada com azeite e previamente aquecida;</li>
+</ol>","[{'id': 38, 'name': 'Omeletes', 'slug': 'omeletes'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",120,27,
+197,Omeleta de Ervas Aromáticas,SAOC0001_CX,16.50,"Contém 5 saquetas de 26g.
+Peso total: 130g.","[{'id': 38, 'name': 'Omeletes', 'slug': 'omeletes'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",5,26,130
+198,Omeleta de Cebola,SAOC0002_CX,16.50,"Contém 5 saquetas de 26g.
+Peso total: 130g.","[{'id': 38, 'name': 'Omeletes', 'slug': 'omeletes'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",5,26,130
+199,Omeleta de Bacon e Queijo,SAOC0005_CX,16.50,"Contém 5 saquetas de 26g.
+Peso total: 130g.","[{'id': 38, 'name': 'Omeletes', 'slug': 'omeletes'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",5,26,130
+200,Hambúrguer de Frango,SAPC0003_CX,16.50,"Contém 4 hambúrgueres de 100g.
+Peso total: 400g.","[{'id': 39, 'name': 'Carne &amp; Peixe', 'slug': 'carne-peixe'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",4,100,400
+201,Vegan Burguer - Hambúrguer de Cogumelos,SAPC0022_CX,,"Contém 4 hambúrgueres de 80g.
+Peso total: 320g.","[{'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}, {'id': 65, 'name': 'Vegetariano', 'slug': 'refeicoes-vegetarianas'}]",4,80,320
+202,Hambúrguer com Azeitonas Pretas,SAPC0021_CX,16.50,"Contém 4 hambúrgueres de 80g.
+Peso total: 320g.","[{'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}, {'id': 65, 'name': 'Vegetariano', 'slug': 'refeicoes-vegetarianas'}]",4,80,320
+203,Guisado de Vitela,SAPC0001_CX,17.50,"Contém 3 unidades de 220g.
+Peso total: 660g.","[{'id': 39, 'name': 'Carne &amp; Peixe', 'slug': 'carne-peixe'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",3,220,660
+204,Fusilli,SAPC0012_CX,11.50,"Contém 3 saquetas de 30g.
+Peso total: 90g.","[{'id': 40, 'name': 'Massa, Pizza &amp; Wrap', 'slug': 'massa-pizza-wrap'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",3,30,90
+205,Caril de Frango,SAPC0006_CX,17.50,"Contém 3 unidades de 220g.
+Peso total: 660g.","[{'id': 39, 'name': 'Carne &amp; Peixe', 'slug': 'carne-peixe'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",3,220,660
+206,Almôndegas com Cogumelos,SAPC0016_CX,17.50,"Contém 3 unidades de 220g.
+Peso total: 660g.","[{'id': 39, 'name': 'Carne &amp; Peixe', 'slug': 'carne-peixe'}, {'id': 22, 'name': 'Refeições', 'slug': 'refeicoes'}]",3,220,660
+207,Snack de Queijo,SASN0007_CX,16.75,"Contém 5 unidades de 40g.
+Peso total: 200g.","[{'id': 23, 'name': 'Snacks Salgados', 'slug': 'snacks-salgados'}]",5,40,200
+208,Grissinis de Tomate e Orégãos,PAPT0011_CX,12.00,"Contém 3 saquetas de 40g.
+Peso total: 120g.","[{'id': 23, 'name': 'Snacks Salgados', 'slug': 'snacks-salgados'}]",3,40,120
+209,Pão com Chouriço,PAPT0008_CX,14.00,"Contém 4 unidades de 40g.
+Peso total líquido de 160g.","[{'id': 23, 'name': 'Snacks Salgados', 'slug': 'snacks-salgados'}]",4,40,160
+210,Grissinis com Sésamo,PAPT0009_CX,12.50,"Contém 3 saquetas de 40g.
+Peso total: 120g.","[{'id': 23, 'name': 'Snacks Salgados', 'slug': 'snacks-salgados'}]",3,40,120
+211,Snack Alho e Salsa,SASN0011_CX,11.50,"Contém 3 saquetas de 30g.
+Peso total: 90g.","[{'id': 23, 'name': 'Snacks Salgados', 'slug': 'snacks-salgados'}]",3,30,90
+212,Snack Barbecue,SASN0009_CX,11.50,"Contém 3 saquetas de 30g.
+Peso total: 90g.","[{'id': 23, 'name': 'Snacks Salgados', 'slug': 'snacks-salgados'}]",3,30,90
+213,Curly Snack,SASN0001_CX,15.50,"Contém 4 unidades de 25g.
+Peso neto: 100g.","[{'id': 23, 'name': 'Snacks Salgados', 'slug': 'snacks-salgados'}]",4,25,100
+214,Snack de Soja de Alho e Ervas Finas,SASN0003_CX,15.50,"Contém 4 saquetas de 25g.
+Peso total: 100g.","[{'id': 23, 'name': 'Snacks Salgados', 'slug': 'snacks-salgados'}]",4,25,100
+215,Snack de Soja sabor a Pizza,SASN0013_CX,15.50,"Contém 4 saquetas de 25g.
+Peso total: 100g.","[{'id': 23, 'name': 'Snacks Salgados', 'slug': 'snacks-salgados'}]",4,25,100
+216,Snack de Soja de Queijo,SASN0006_CX,16.50,"Contém 4 saquetas de 25g.
+Peso total: 100g.","[{'id': 23, 'name': 'Snacks Salgados', 'slug': 'snacks-salgados'}]",4,25,100
+217,Snack de Fiambre e Queijo,SASN0008_CX,16.75,"Contém 5 unidades de 40g.
+Peso total: 200g.","[{'id': 23, 'name': 'Snacks Salgados', 'slug': 'snacks-salgados'}]",5,40,200
+218,Snack de Queijo e Presunto,SASN0005_CX,16.50,"Contém 5 saquetas de 32,3g.
+Peso total: 161,5g.","[{'id': 23, 'name': 'Snacks Salgados', 'slug': 'snacks-salgados'}]",5,32,3
+219,Snack Vegan,SASV0001_CX,11.50,"Contém 3 unidades de 25g.
+Peso neto: 75g.","[{'id': 23, 'name': 'Snacks Salgados', 'slug': 'snacks-salgados'}]",3,25,75
+220,Tortitos sabor a Bacon,SASN0004_CX,16.50,"Contém 4 saquetas de 25g
+Peso total: 100g.","[{'id': 23, 'name': 'Snacks Salgados', 'slug': 'snacks-salgados'}]",4,25,100
+221,Tostas,PAPT0003_UN,12.00,"Contém 18 tostas de 5g.
+Peso total: 90g.","[{'id': 23, 'name': 'Snacks Salgados', 'slug': 'snacks-salgados'}]",18,5,90
+222,Zipper Barbecue,SASN0012_CX,11.50,"Contém 3 saquetas de 38g.
+Peso total líquido de 114g.","[{'id': 23, 'name': 'Snacks Salgados', 'slug': 'snacks-salgados'}]",3,38,114
+223,Grissinis,PAPT0005_CX,10.00,"Contém 3 saquetas de 22g.
+Peso total: 66g.","[{'id': 23, 'name': 'Snacks Salgados', 'slug': 'snacks-salgados'}]",3,22,66
+224,Crocantes de Queijo,SASN0014_CX,16.75,"Contém 5 unidades de 30g.
+Peso total: 150g.","[{'id': 23, 'name': 'Snacks Salgados', 'slug': 'snacks-salgados'}]",5,30,150
+225,Crackers de Queijo,PAPT0004_CX,16.50,"Contém 5 saquetas de 38g.
+Peso total: 190g.","[{'id': 23, 'name': 'Snacks Salgados', 'slug': 'snacks-salgados'}]",5,38,190
+226,A.R.L. sabor Manga Ananás,SUDR0003_UN,25.00,"Contém 10 unidades de 10 ml.
+
+Peso neto: 100ml","[{'id': 19, 'name': 'Suplementos &amp; Elixires', 'slug': 'suplementos-elixires'}]",10,10,100
+227,Super Coffee,BEBF0009_CX,26.00,,"[{'id': 19, 'name': 'Suplementos &amp; Elixires', 'slug': 'suplementos-elixires'}]",1,,
+228,Plano Imunidade,KITPI0001,37.00,,"[{'id': 17, 'name': 'Águas &amp; Bebidas sem álcool', 'slug': 'aguas-bebidas-sem-alcool'}, {'id': 20, 'name': 'Chás Terapêuticos', 'slug': 'chas-terapeuticos'}, {'id': 18, 'name': 'Kits', 'slug': 'kits'}, {'id': 19, 'name': 'Suplementos &amp; Elixires', 'slug': 'suplementos-elixires'}]",1,,
+229,Super Skin by Lev,SUEB0001_CX,50.00,"Glicerina E422 e água purificada QSP, sumos : Ananás (<em>Ananas comosus</em> <em>(L.) Merr.</em>) e Papaia (<em>Carica papaya L.</em>); extratos aquosos: Dente-de-leão (<em>Taraxacum officinale Web.</em>), Guaraná (<em>Paullinia cupana Kunth</em>) e Chá verde (<em>Camellia sinensis (L.) Kuntze</em>); FOS (Fructooligossacarídeos); corante: Caramelo E150a; aroma: manga; espessante: goma xantana E415.","[{'id': 66, 'name': 'Nutricosmética', 'slug': 'nutricosmetica'}, {'id': 19, 'name': 'Suplementos &amp; Elixires', 'slug': 'suplementos-elixires'}]",422,150,415
+230,Pro Pre B,SULA0002_UN,20.00,"Tomar 2 cápsulas por dia: 1 ao levantar e 1 cápsula ao deitar, acompanhadas por 200-250 ml de água.","[{'id': 67, 'name': 'Pro &amp; Pre Biótico', 'slug': 'pro-pre-bioticos'}, {'id': 19, 'name': 'Suplementos &amp; Elixires', 'slug': 'suplementos-elixires'}]",2,1,1
+231,Menopose,SUAG0004_UN,22.00,"30 cápsulas de 973mg
+Peso Neto: 51,16g","[{'id': 19, 'name': 'Suplementos &amp; Elixires', 'slug': 'suplementos-elixires'}]",30,973,51
+232,Hipertónico,SUSM0001_UN,23.00,"20 doses individuais de 10ml
+
+Volume líquido 200ml","[{'id': 19, 'name': 'Suplementos &amp; Elixires', 'slug': 'suplementos-elixires'}]",20,10,200
+233,Vita Lev,SUMU0001_UN,20.00,"60 cápsulas de 571mg
+
+Peso Neto 34,26g","[{'id': 19, 'name': 'Suplementos &amp; Elixires', 'slug': 'suplementos-elixires'}]",60,571,34
+234,Transit,SULA0001_UN,10.00,"<strong>60 cápsulas</strong> de 610,30mg
+
+Peso Neto: 36,60g","[{'id': 19, 'name': 'Suplementos &amp; Elixires', 'slug': 'suplementos-elixires'}]",60,610,30
+235,Skin Elixir + Keratin + Elastin,SUEB0002_UN,29.95,"Conservar em local seco e fresco (entre 15ºC a 25ºC), ao abrigo da luz e da humidade.","[{'id': 66, 'name': 'Nutricosmética', 'slug': 'nutricosmetica'}, {'id': 19, 'name': 'Suplementos &amp; Elixires', 'slug': 'suplementos-elixires'}]",15,25,
+236,Ácidos Gordos Essenciais,SUAG0001_UN,23.00,"60 cápsulas de 717mg
+
+Peso Neto: 43g","[{'id': 19, 'name': 'Suplementos &amp; Elixires', 'slug': 'suplementos-elixires'}]",60,717,43
+237,Fat Burner Elixir,SUEB0004_UN,29.95,"<ul>
+ 	<li>Não administrar a crianças menores de 12 anos.</li>
+ 	<li>Consulte o seu médico se tiver problemas de tiróide.</li>
+ 	<li>Não prolongar o uso sem orientação de um especialista.</li>
+ 	<li>Manter fora do alcance e vista das crianças.</li>
+ 	<li>Não exceder a dose diária recomendada.</li>
+ 	<li>Não deve ser utilizado como substituto de um regime alimentar variado.</li>
+ 	<li>Não deve administrar-se durante a gravidez e aleitamento</li>
+</ul>","[{'id': 19, 'name': 'Suplementos &amp; Elixires', 'slug': 'suplementos-elixires'}]",12,,
+238,Lev Energy,SUAG0002_UN,25.00,"60 cápsulas de 858mg
+
+Peso Neto: 51,48g","[{'id': 19, 'name': 'Suplementos &amp; Elixires', 'slug': 'suplementos-elixires'}]",60,858,51
+239,Boost Elixir,SUEB0003_UN,25.95,"<ul>
+ 	<li>Não administrar a crianças menores de 12 anos.</li>
+ 	<li>Consulte o seu médico se tiver problemas de tiróide.</li>
+ 	<li>Não prolongar o uso sem orientação de um especialista.</li>
+ 	<li>Manter fora do alcance e vista das crianças.</li>
+ 	<li>Não exceder a dose diária recomendada.</li>
+ 	<li>Não deve ser utilizado como substituto de um regime alimentar variado.</li>
+ 	<li>Não deve administrar-se durante a gravidez e aleitamento</li>
+</ul>","[{'id': 19, 'name': 'Suplementos &amp; Elixires', 'slug': 'suplementos-elixires'}]",12,,
+240,A.R.L. sabor a Frutos Vermelhos,SUDR0002_UN,25.00,"Contém 10 unidades de 10 ml.
+
+Peso neto: 100ml","[{'id': 19, 'name': 'Suplementos &amp; Elixires', 'slug': 'suplementos-elixires'}]",10,10,100
