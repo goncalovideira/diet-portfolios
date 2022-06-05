@@ -24,7 +24,7 @@ headers = {
   'authority': 'levcms.live.afonso.se',
   'accept': 'application/json, text/plain, */*',
   'accept-language': 'pt-PT,pt;q=0.9,en-US;q=0.8,en;q=0.7',
-  'authorization': 'Basic ${{secrets.LEV_TOKEN}}',
+  'authorization': 'Basic os.environ['LEV_TOKEN']',
   'origin': 'https://lev.pt',
   'referer': 'https://lev.pt/',
   'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"',
