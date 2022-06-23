@@ -216,8 +216,8 @@ Peso total: 135g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug':
 Peso total: 220g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,44,220
 129,Barra Wafer de Chocolate,DOBA0012_CX,16.50,"Contém 5 unidades de 37,2g.
 Peso total líquido de 186g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",5,37,2
-130,Arroz Doce,DOSO0008_CX,16.50,"Contém 5 saquetas de 30g.
-Peso total: 150g","[{'id': 21, 'name': 'Doces', 'slug': 'doces'}, {'id': 35, 'name': 'Sobremesas', 'slug': 'sobremesas'}]",5,30,150
+130,Arroz Doce,DOSO0008_CX,16.50,"Contém 5 saquetas de 28,5g.
+Peso total: 142,5g","[{'id': 21, 'name': 'Doces', 'slug': 'doces'}, {'id': 35, 'name': 'Sobremesas', 'slug': 'sobremesas'}]",5,28,5
 131,Barra de Amendoim,SNSS0002_CX,7.50,"Contém 3 unidades de 42g.
 Peso total: 126g.","[{'id': 64, 'name': 'Barras, Bolachas &amp; Wafers', 'slug': 'barras-bolachas-wafers'}, {'id': 21, 'name': 'Doces', 'slug': 'doces'}]",3,42,126
 132,Kabkaj - Dark Choco + Hyaluronic Acid,PACS0032_CX,19.95,"Contém 6 tabletes de 32g (192g).
@@ -303,9 +303,9 @@ Peso líquido total de 240g.","[{'id': 25, 'name': 'Padaria &amp; Pastelaria', '
 Peso neto: 150g","[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",3,50,150
 168,Muffin de Mirtilo,PACA0019_CX,14.00,"Contém 4 saquetas de 38g.
 Peso total líquido de 152g.","[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",4,38,152
-169,Muffin de Gengibre e Canela,PACA0007_CX,14.00,"Contém 4 saquetas de 48g.
-Peso total líquido de 192g.","[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",4,48,192
-170,Muffin de Framboesa,PACA0033_CX,15.00,"Contém 4 saquetas de 38g.
+169,Muffin de Gengibre e Canela,PACA0007_CX,14.00,"Contém 4 saquetas de 38g.
+Peso total líquido de 152g.","[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",4,38,152
+170,Muffin de Framboesa,PACA0008_CX,15.00,"Contém 4 saquetas de 38g.
 Peso total líquido de 152g.","[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",4,38,152
 171,Muffin Crisp,PACA0017_CX,14.00,"Contém 4 saquetas de 37g.
 Peso total líquido de 148g.","[{'id': 25, 'name': 'Padaria &amp; Pastelaria', 'slug': 'padaria-pastelaria'}]",4,37,148
